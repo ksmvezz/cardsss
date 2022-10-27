@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-blue { 
+    background: rgb(92,175,248);
+    color: white;
+}
